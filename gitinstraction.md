@@ -35,7 +35,11 @@ git config --global user.email
 Если сохранено,то будет " nothing to commit, working tree clean"
 Если не сохранено, то будет вылетать КРАСНЫМ цветом моменты в терминале
 
-1. git status   
+## 2.  Добавления изменений 
+
+Команда " git add" позволяет  передать в git,что будут изменения в следующем коммите.
+
+
 2. git add
 3. git commit
 4. git log
