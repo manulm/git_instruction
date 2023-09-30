@@ -137,3 +137,5 @@ git config --global user.email
 А спят они....интересным образом:
 
 ![манул](manul4.jpg)
+
+
