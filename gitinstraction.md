@@ -141,4 +141,4 @@ git config --global user.email
 
 
 
-конфликт
+ТУТ ТОЧНО НУЖЕН КОНФЛИКТ
