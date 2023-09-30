@@ -140,3 +140,5 @@ git config --global user.email
 
 
 
+
+конфликт
